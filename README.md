@@ -9,7 +9,7 @@ Atualemnte estou cursando o bootcamp #ElasTech da Soulcode em parceria com a Pag
   <a href="https://gist.github.com/danibotelho"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dani-botelho"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:danibl26@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://drive.google.com/file/d/1zwqY6g_adKiYfVFHg5hlN6KHx2u7dRNH/view?usp=sharing"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+  <a href="https://drive.google.com/file/d/1zwqY6g_adKiYfVFHg5hlN6KHx2u7dRNH/view?usp=sharing"><img src="cv.svg" alt="Curriculum Vitae"></a>
 </div>
 
 ## ⚡Status GitHub
