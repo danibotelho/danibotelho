@@ -1,4 +1,4 @@
-## Olá Visitante, soa a Dani 🚀💻
+## Olá Visitante, sou a Dani 🚀💻
 
 Moro em Fortaleza, Brasil. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i>. <br>
 Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `pré processadores de CSS` e possuo conhecimento em `Node.js` e `Java` Orientado a Objeto. <br>
