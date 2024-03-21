@@ -1,7 +1,7 @@
 ## Olá Visitante, sou a Dani 🚀💻
 
 Moro em Fortaleza, Brasil. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i>. <br>
-Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `pré processadores de CSS` e possuo conhecimento em `Node.js` e `Java` Orientado a Objeto. <br>
+Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `pré processadores de CSS`. Possuo conhecimento em `Node.js` e `Java` Orientado a Objeto. <br>
 Atualemnte estou cursando o bootcamp #ElasTech da Soulcode em parceria com a Pagbank, que tem como foco o `Java`, paralelamente estou estudando também `VueJS` e aprimorando os conhecimentos em `SQL`, `HTML`, `CSS` e <i> responsivedade</i>. <br>
 
 <br>
