@@ -2,14 +2,13 @@
 
 Moro em Fortaleza, Brasil. Sou estudante de <i>Análise e Desenvolvimento de Sistemas</i>. <br>
 Tenho experiência com `ReactJS`, `NextJS`, `TypeScript` e `pré processadores de CSS`. Possuo conhecimento em `Node.js` e `Java` Orientado a Objeto. <br>
-Atualemnte estou cursando o bootcamp #ElasTech da Soulcode em parceria com a Pagbank, que tem como foco o `Java`, paralelamente estou estudando também `VueJS` e aprimorando os conhecimentos em `SQL`, `HTML`, `CSS` e <i> responsivedade</i>. <br>
+
 
 <br>
 <div>
   <a href="https://github.com/danibotelho"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dani-botelho"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:danibl26@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://drive.google.com/file/d/1zwqY6g_adKiYfVFHg5hlN6KHx2u7dRNH/view?usp=sharing"><img src="cv.svg" alt="Curriculum Vitae"></a>
 </div>
 
 ## ⚡Status GitHub
@@ -17,8 +16,6 @@ Atualemnte estou cursando o bootcamp #ElasTech da Soulcode em parceria com a Pag
 <div>
   <a href="https://github.com/danibotelho/">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=danibotelho&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibotelho&show_icons=true&hide=html&layout=compact&theme=tokyonight&count_private=true&includes_all_commits=true&hide_progress=true" />
-     
   </a>
 </div>
 
